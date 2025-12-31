@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nahid
 ==============================================================================================================================
 
-### Hi there 👋, I'm [Your Name]
-
 **Aspiring Python Developer | Django Backend Specialist | DevOps Engineer**
 
 Transitioning from 3+ years in IT systems and network support to full-stack software development, with a strong focus on building scalable, secure backend solutions.
@@ -16,12 +14,12 @@ Passionate about crafting clean, efficient code and automating infrastructure fo
 
 💬 Let's connect on building scalable APIs, containerized deployments, or Python-powered automation!
 
-
 *   🌍  I'm based in Dhaka, Bangladesh
 *   🖥️  See my portfolio at [Nahid's Portfolio](http://nhriyaad.pythonanywhere.com)
 *   ✉️  You can contact me at [nhriyaad@gmail.com](mailto:nhriyaad@gmail.com)
 *   👥  I'm looking to collaborate on Any Interesting Project
 *   💬  Ask me about Tech 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
