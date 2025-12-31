@@ -1,10 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nahid
 ==============================================================================================================================
 
-Django Developer and DevOps Engineer.
--------------------------------------
+### Hi there 👋, I'm [Your Name]
 
-Aspiring Python Developer with a background in IT support and a strong foundation in backend development using Django, FastAPI, and MySQL. Transitioning from 3+ years of experience in systems and network support to software development with a passion for clean code, scalable APIs, and automation. Proficient in troubleshooting network security and infrastructure management across Windows, OS, and Linux.
+**Aspiring Python Developer | Django Backend Specialist | DevOps Engineer**
+
+Transitioning from 3+ years in IT systems and network support to full-stack software development, with a strong focus on building scalable, secure backend solutions.
+
+Passionate about crafting clean, efficient code and automating infrastructure for reliable deployments. Experienced in designing RESTful APIs, managing databases, and orchestrating containerized environments.
+
+- 🔭 Currently deepening expertise in **Django**, **FastAPI**, and **Python** for robust web applications  
+- 🌱 Exploring advanced **DevOps practices**: CI/CD pipelines, cloud infrastructure (AWS), and automation scripting  
+- 👨‍💻 Proficient in troubleshooting, network security, and managing multi-platform environments (Linux, Ubuntu, Windows)  
+- ⚡ Fun fact: I love turning complex infrastructure challenges into streamlined, automated solutions  
+
+💬 Let's connect on building scalable APIs, containerized deployments, or Python-powered automation!
+
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   🖥️  See my portfolio at [Nahid's Portfolio](http://nhriyaad.pythonanywhere.com)
