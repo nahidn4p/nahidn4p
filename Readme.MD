@@ -64,7 +64,7 @@ Passionate about crafting clean, efficient code and automating infrastructure fo
 </p>
 
 ## 📊 GitHub Stats
-
+![GitHub stats](https://gitstats.pythonanywhere.com/badge/nahidn4p.svg?theme=minimal_dark) 
 <p align="left">
   <a href="https://github.com/nahidn4p">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidn4p&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
