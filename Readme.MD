@@ -55,27 +55,5 @@ Passionate about crafting clean, efficient code and automating infrastructure fo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahidn4p&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 📊 GitHub Stats
 ![GitHub stats](https://gitstats.pythonanywhere.com/badge/nahidn4p.svg?theme=minimal_dark) 
-<p align="left">
-  <a href="https://github.com/nahidn4p">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidn4p&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/nahidn4p">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn4p&size_weight=0.5&count_weight=0.5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nahidn4p&theme=one_dark_pro&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
